@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PixelatedCosmos
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning C++
-- 🎓 I'm currently in my second CS semester at university
+- 🎓 I'm currently in my second CS year at university
 - 💞️ I’m looking to make new friends who are serious about coding and learn together
 
 <!---
