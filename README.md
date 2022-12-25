@@ -23,7 +23,7 @@ I am Michel Jahshan!
 # 👨‍💻My Interests
 Even though I haven't had much experience in programming, I cannot wait to start coding professionally, especially when it comes to back-end development. I am somewhat proficient in C++ and C# and can put together a nice-looking app using Windows Forms, although I am thinking of diving into the cross-platform GUI world.
 
-# 📫How to reach me: 
+# 📫How to reach me
 <a href="mailto:michel.jahshan@gmail.com">![michel.jahshan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <!---
