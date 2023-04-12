@@ -11,6 +11,7 @@ I am Michel Jahshan!
 - CSC423 Software Engineering
 - CSC312 Computer Architecture
 - CSC426 Principles of Database Systems
+- CSC325 Analysis of Algorithms
 
 # 💯I Have Finished
 - CSC201 Introduction to Computers
