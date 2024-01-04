@@ -8,9 +8,9 @@ I am Michel Jahshan!
 - Currently doing a BS in Computer Science at Notre Dame University Louaize, Lebanon
 
 # 💻I am Currently Learning
-- CSC414 Applied Operating Systems
-- CSC311 Theory of Computation
-- CSC210 Fundamentals of Computer Programming With Python
+- CSC 425 Data Communications and Computer Networks
+- CSC 413 Parallel and Distributed Computing
+- CSC 203 Information Age and Ethics
 
 # 💯I Have Finished
 - CSC201 Introduction to Computers
@@ -24,6 +24,9 @@ I am Michel Jahshan!
 - CSC312 Computer Architecture
 - CSC426 Principles of Database Systems
 - CSC325 Analysis of Algorithms
+- CSC414 Applied Operating Systems
+- CSC311 Theory of Computation
+- CSC210 Fundamentals of Computer Programming With Python
 
 # 👨‍💻My Interests
 Even though I haven't had much experience in programming, I cannot wait to start coding professionally, especially when it comes to back-end development. I am somewhat proficient in C++ and C# and can put together a nice-looking app using Windows Forms, although I am thinking of diving into the cross-platform GUI world.
