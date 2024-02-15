@@ -7,6 +7,10 @@ Make yourself at home and grab a cup of tea 🍵
 I am Michel Jahshan!
 - Currently doing a BS in Computer Science at Notre Dame University Louaize, Lebanon
 
+# 👨‍💻My skills
+- Programming Languages: C++, C#, Dart, Python, SQL, HTML, CSS
+- Technologies/Frameworks: Flutter, Git, Windows Forms, Tkinter, Tailwind CSS
+
 # 💻I am Currently Learning
 - CSC 425 Data Communications and Computer Networks
 - CSC 413 Parallel and Distributed Computing
@@ -27,9 +31,6 @@ I am Michel Jahshan!
 - CSC414 Applied Operating Systems
 - CSC311 Theory of Computation
 - CSC210 Fundamentals of Computer Programming With Python
-
-# 👨‍💻My Interests
-Even though I haven't had much experience in programming, I cannot wait to start coding professionally, especially when it comes to back-end development. I am somewhat proficient in C++ and C# and can put together a nice-looking app using Windows Forms, although I am thinking of diving into the cross-platform GUI world.
 
 # 📫How to reach me
 <a href="mailto:michel.jahshan@gmail.com">![michel.jahshan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
