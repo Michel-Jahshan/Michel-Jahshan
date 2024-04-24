@@ -8,7 +8,7 @@ I am Michel Jahshan!
 - Currently doing a BS in Computer Science at Notre Dame University Louaize, Lebanon
 
 # 👨‍💻My skills
-- Programming Languages: C++, C#, Dart, Python, SQL, HTML, CSS
+- Programming Languages: C++, C#, Dart, Python, SQL, MongoDB, R, HTML, CSS
 - Technologies/Frameworks: Flutter, Git, Windows Forms, Tkinter, Tailwind CSS
 
 # 💻I am Currently Learning
