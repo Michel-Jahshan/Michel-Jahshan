@@ -9,12 +9,11 @@ I am Michel Jahshan!
 
 # 👨‍💻My skills
 - Programming Languages: C++, C#, Dart, Python, SQL, MongoDB, R, HTML, CSS
-- Technologies/Frameworks: Flutter, Git, Windows Forms, Tkinter, Tailwind CSS
+- Technologies/Frameworks: Flutter, Django, Git, Windows Forms, Tkinter, Tailwind CSS
 
 # 💻I am Currently Learning
-- CSC 425 Data Communications and Computer Networks
-- CSC 413 Parallel and Distributed Computing
-- CSC 203 Information Age and Ethics
+- CSC316 Fundamentals of Computer Security
+- CSC432 Intro to Artificial Intelligence
 
 # 💯I Have Finished
 - CSC201 Introduction to Computers
@@ -31,6 +30,9 @@ I am Michel Jahshan!
 - CSC414 Applied Operating Systems
 - CSC311 Theory of Computation
 - CSC210 Fundamentals of Computer Programming With Python
+- CSC 425 Data Communications and Computer Networks
+- CSC 413 Parallel and Distributed Computing
+- CSC 203 Information Age and Ethics
 
 # 📫How to reach me
 <a href="mailto:michel.jahshan@gmail.com">![michel.jahshan@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
