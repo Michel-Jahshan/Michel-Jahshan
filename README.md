@@ -1,6 +1,6 @@
 ![](https://github.com/Michel-Jahshan/Michel-Jahshan/blob/main/banner.gif)
 # Please come in! 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MichelJahshan.MichelJahshan) ![GitHub followers](https://img.shields.io/github/followers/MichelJahshan?label=Follow&style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MichelJahshan.MichelJahshan) ![GitHub followers](https://img.shields.io/github/followers/Michel-Jahshan?label=Follow&style=social)
 
 Make yourself at home and grab a cup of tea 🍵
 
