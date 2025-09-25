@@ -1,4 +1,4 @@
-![](https://github.com/PixelatedCosmos/PixelatedCosmos/blob/main/banner.gif)
+![](https://github.com/Michel-Jahshan/Michel-Jahshan/blob/main/banner.gif)
 # Please come in! 👋
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PixelatedCosmos.PixelatedCosmos) ![GitHub followers](https://img.shields.io/github/followers/PixelatedCosmos?label=Follow&style=social)
 
