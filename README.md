@@ -5,7 +5,7 @@
 Make yourself at home and grab a cup of tea 🍵
 
 I am Michel Jahshan!
-- Currently doing a BS in Computer Science at Notre Dame University Louaize, Lebanon
+- Currently doing an MS in Computer Science at Notre Dame University Louaize, Lebanon
 
 # 👨‍💻My skills
 - Programming Languages: Dart, Javascript, Python, C++, C#, SQL, MongoDB, R, HTML, CSS
