@@ -1,6 +1,6 @@
 ![](https://github.com/Michel-Jahshan/Michel-Jahshan/blob/main/banner.gif)
 # Please come in! 👋
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=PixelatedCosmos.PixelatedCosmos) ![GitHub followers](https://img.shields.io/github/followers/PixelatedCosmos?label=Follow&style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=MichelJahshan.MichelJahshan) ![GitHub followers](https://img.shields.io/github/followers/MichelJahshan?label=Follow&style=social)
 
 Make yourself at home and grab a cup of tea 🍵
 
@@ -12,8 +12,9 @@ I am Michel Jahshan!
 - Technologies/Frameworks: Flutter, React, Django, Tailwind CSS, Git, Windows Forms, Tkinter
 
 # 💻I am Currently Learning
-- CSC633 Digital Image Processing
-- CSC685 Readings in Computer Science (Data Analysis)
+-Master's Degree in Computer Science:
+  - CSC633 Digital Image Processing
+  - CSC685 Readings in Computer Science (Data Analysis)
 
 # 💯I Have Finished
 -Bachelor's Degree in Computer Science:
